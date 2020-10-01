@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: Daftar Peserta KSN Informatika 2020
+title: Daftar Peserta KSN 2020 Bidang Informatika
 key: contestants
 ---
 

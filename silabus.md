@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Silabus Materi KSN Informatika 2020
+title: Silabus Materi KSN 2020 Bidang Informatika
 key: syllabus
 ---
 

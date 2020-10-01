@@ -1,10 +1,10 @@
 ---
 layout: single-page-md
-title: Referensi KSN Informatika 2020
+title: Referensi KSN 2020 Bidang Informatika
 key: reference
 ---
 
-Berikut adalah tautan-tautan yang berguna untuk peserta KSN Informatika 2020.
+Berikut adalah tautan-tautan yang berguna untuk peserta KSN 2020 Bidang Informatika.
 
 - [Website PUSPRESNAS](https://pusatprestasinasional.kemdikbud.go.id/)
 - [Website KSN PUSPRESNAS](https://ksn-puspresnas.id/)
