@@ -34,7 +34,7 @@ key: open
 
 - Each contestant can select **any 5-hour window** within the time range to do the contest for each competition day.
 - All three contests are now available on [TLX](https://tlx.toki.id/contests). Please register in those contests.
-- Each contestant may start the contest any time within the time range, by clicking the timer button.
+- Each contestant may start the contest any time within the time range, by clicking the "start" button.
 - There will be no additional time given if a contestant starts the contest in less than 5 hours before the contest ends.
 - The open contest does not support clarifications, but all important announcements from the original contest will be broadcast as well.
 
