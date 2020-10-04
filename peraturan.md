@@ -123,4 +123,4 @@ Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2019](https://osn2019.toki
    1. <span style="color:red">~~Mencoba untuk merusak sistem *grader*.~~</span>
    1. <span style="color:red">~~Mengganggu peserta lain.~~</span>
 
-<span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di <a href="pengawasan.html">bagian Pengawasan</a>.</span>
+<span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di bagian <a href="/pelaksanaan.html">Pelaksanaan Lomba</a>.</span>
