@@ -114,16 +114,6 @@ Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2019](https://osn2019.toki
 
 <br>
 
-### G. Lain-Lain
-
-1. <span style="color:red">~~Peserta tidak boleh menggunakan barang-barang pribadi ke dalam tempat lomba, **kecuali** maskot kecil dan alat-alat tulis~~</span>.
-1. <span style="color:red">~~Apabila terjadi hal-hal yang tidak terduga (misalnya: mati listrik, jaringan internet terputus dan lain-lain), maka panitia memiliki **hak diskresi** untuk menambah waktu kompetisi menjadi lebih lama dari 5 jam, sesuai yang diperlukan~~</span>.
-1. <span style="color:red">~~Peserta yang melakukan kecurangan akan mendapatkan **sanksi** berupa nilai 0 atau bahkan didiskualifikasi. Kecurangan misalnya, namun tidak terbatas, pada:~~</span>
-   1. <span style="color:red">~~Melakukan komunikasi dengan peserta lain atau juri selama kompetisi berlangsung di luar sistem yang telah disediakan.~~</span>
-   1. <span style="color:red">~~Mengakses akun peserta lain.~~</span>
-   1. <span style="color:red">~~Mengakses komputer atau jaringan lain selain yang diperbolehkan.~~</span>
-   1. <span style="color:red">~~Mencoba untuk mengakses *root* komputer.~~</span>
-   1. <span style="color:red">~~Mencoba untuk merusak sistem *grader*.~~</span>
-   1. <span style="color:red">~~Mengganggu peserta lain.~~</span>
+### <span style="color:red">~~G. Lain-Lain~~</span>
 
 <span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di bagian <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>.</span>
