@@ -114,6 +114,4 @@ Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2019](https://osn2019.toki
 
 <br>
 
-### <span style="color:red">~~G. Lain-Lain~~</span>
-
 <span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di bagian <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>.</span>
