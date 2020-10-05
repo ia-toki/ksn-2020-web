@@ -22,7 +22,7 @@ Ini merupakan peraturan lanjutan dari [Peraturan Kompetisi KSN 2020 Bidang Infor
 1. Peserta diharuskan mengerjakan soal **sendiri tanpa bantuan orang lain**.
 1. Peserta tidak diperbolehkan berkomunikasi dengan siapa pun, kecuali menghubungi narahubung kompetisi, atau menghubungi juri melalui klarifikasi pada sistem kompetisi.
 1. Peserta tidak diperbolehkan mengakses situs apa pun, kecuali **sistem kompetisi lomba** dan **dokumentasi bahasa**, yang tautannya akan diberikan pada pengumuman kontes.
-1. Peserta tidak diperbolehkan **mengakses materi digital apa pun**, seperti _template_ kode, _cheatsheet_, materi pemrograman dalam bentuk PDF, dan lain-lain.
+1. Peserta tidak diperbolehkan **mengakses materi fisik maupun digital apa pun**, seperti _template_ kode, _cheatsheet_, materi pemrograman dalam bentuk buku/PDF, dan lain-lain.
 1. Seluruh kode yang di-submit peserta, harus merupakan kode yang **ditulis sendiri oleh peserta selama kompetisi berjalan**. Tidak diperbolehkan melakukan _copy-paste_ kode yang pernah ditulis sebelum kontes.
 1. Selain _web browser_, peserta diperbolehkan menggunakan **perangkat lunak apapun yang tidak terhubung pada internet**, selama tidak melanggar aturan lainnya. Misalnya: _text editor_, _compiler_, aplikasi kalkulator, _spreadsheet_, _Minesweeper_, _Paint_.
 1. Peserta diperbolehkan menggunakan **alat tulis** dan **kertas corat-coret apa pun** untuk mengerjakan soal.
