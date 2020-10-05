@@ -6,6 +6,9 @@ key: rules
 
 Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2019](https://osn2019.toki.id/peraturan.html) ditandai dengan <span style="color:red">warna merah</span>.
 
+<span style="color:red">Pastikan untuk membaca juga <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>.</span>
+
+
 ### A. Teknis Umum
 
 1. KSN 2020 Bidang Informatika terdiri atas **1 hari uji coba** dan **2 hari kompetisi**.
@@ -123,4 +126,4 @@ Perbedaan dengan [Peraturan Kompetisi OSN Informatika 2019](https://osn2019.toki
    1. <span style="color:red">~~Mencoba untuk merusak sistem *grader*.~~</span>
    1. <span style="color:red">~~Mengganggu peserta lain.~~</span>
 
-<span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di bagian <a href="/pelaksanaan.html">Pelaksanaan Lomba</a>.</span>
+<span style="color:red">Peraturan pelaksanaan kompetisi secara daring lebih didetailkan di bagian <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>.</span>
