@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Teknis Soal Lomba KSN 2020 Bidang Informatika
+title: Peraturan KSN 2020 Bidang Informatika
 key: rules
 ---
 
