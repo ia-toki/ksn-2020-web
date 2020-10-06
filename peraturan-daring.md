@@ -27,7 +27,7 @@ Ini merupakan peraturan lanjutan dari [Peraturan Kompetisi KSN 2020 Bidang Infor
 1. Selain _web browser_, peserta diperbolehkan menggunakan **perangkat lunak apapun yang tidak terhubung pada internet**, selama tidak melanggar aturan lainnya. Misalnya: _text editor_, _compiler_, aplikasi kalkulator, _spreadsheet_, _Minesweeper_, _Paint_.
 1. Peserta diperbolehkan menggunakan **alat tulis** dan **kertas corat-coret apa pun** untuk mengerjakan soal.
 1. Klarifikasi terkait soal hanya boleh ditanyakan kepada juri dan harus melalui sistem kompetisi.
-1. Peserta **tidak diperbolehkan menyebarluaskan atau mendiskusikan soal dan solusinya**, selama kompetisi berlangsung, sampai 12 jam sesudah kontes berakhir setiap harinya.
+1. Peserta **tidak diperbolehkan menyebarluaskan atau mendiskusikan soal dan solusinya**, selama kompetisi berlangsung, sampai 16 jam sesudah kontes berakhir setiap harinya.
 
 <br />
 
