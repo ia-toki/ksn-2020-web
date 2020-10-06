@@ -39,7 +39,7 @@ Ini merupakan peraturan lanjutan dari [Peraturan Kompetisi KSN 2020 Bidang Infor
 1. Perangkat yang digunakan harus memiliki sambungan internet dan daya (listrik/baterai) yang cukup untuk melakukan pertemuan daring selama kompetisi, dan 15 menit sebelum dan sesudahnya.
 1. Peserta diharuskan sudah terhubung dengan Zoom 15 menit sebelum kompetisi dimulai.
 1. Peserta diharuskan mengubah _screen/display name_ dengan format: `Username – Nama` (contoh : `010406034 – Deri`).
-1. Peserta tidak diperbolehkan menggunakan _virtual backgroud_.
+1. Peserta tidak diperbolehkan menggunakan _virtual background_.
 1. Peserta diharuskan menyalakan mode **video dan audio**.
 1. Perangkat berkamera yang tersambung wajib diletakkan berjarak 1 - 1,2 meter, pada posisi yang memungkinkan untuk:
    - Memantau lingkungan tempat peserta lomba KSN berada
@@ -65,5 +65,5 @@ Ini merupakan peraturan lanjutan dari [Peraturan Kompetisi KSN 2020 Bidang Infor
 ### K. Kejujuran Peserta
 
 1. Demi kebaikan bersama, peserta diharapkan **mematuhi seluruh peraturan dengan jujur**.
-1. Mengingat keterbatasan pengawasan secara daring, jika diperlukan, **panitia berhak melakukan wawancara apabila terdapat tanda-tanda kecurangan**.
+1. Mengingat keterbatasan pengawasan secara daring, jika diperlukan dewan juri, **akan dilakukan wawancara apabila terdapat tanda-tanda kecurangan**.
 1. Peserta yang terbukti berlaku curang akan **didiskualifikasi**.
