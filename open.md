@@ -28,9 +28,9 @@ key: open
 ### Schedule and Technical Details
 
 - The contests will be held at the following time ranges:
-* **Day 0**: [12 October 2020 09:00 - 22:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+0&iso=20201012T1600&p1=108&ah=13&am=30) (trial session)
-* **Day 1**: [13 October 2020 06:30 - 22:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+1&iso=20201013T1330&p1=108&ah=16&am=00)
-* **Day 2**: [14 October 2020 06:30 - 22:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+2&iso=20201014T1330&p1=108&ah=16&am=00)
+* **Day 0**: [12 October 2020 09:00 - 21:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+0&iso=20201012T1600&p1=108&ah=12&am=30) (trial session)
+* **Day 1**: [13 October 2020 06:30 - 21:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+1&iso=20201013T1330&p1=108&ah=15&am=00)
+* **Day 2**: [14 October 2020 06:30 - 21:30 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+2&iso=20201014T1330&p1=108&ah=15&am=00)
 
 - Each contestant can select **any 5-hour window** within the time range to do the contest for each competition day.
 - All three contests are now available on [TLX](https://tlx.toki.id/contests). Please register in those contests.
