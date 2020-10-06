@@ -23,10 +23,10 @@ key: terbuka
 
 - Secara umum, teknis sesuai dengan yang tercantum pada halaman [Peraturan Kompetisi](peraturan.html).
 - Kontes dibuka dalam rentang waktu sebagai berikut.
-  * **Hari 0**: 12 Oktober 2020 16:00 WIB - 13 Oktober 2020 05:00 WIB
+  * **Hari 0**: 12 Oktober 2020 16:00 WIB - 13 Oktober 2020 05:30 WIB
     (sesi uji coba, **tidak** mempengaruhi nilai akhir)
-  * **Hari 1**: 13 Oktober 2020 13:30 WIB - 14 Oktober 2020 05:00 WIB
-  * **Hari 2**: 14 Oktober 2020 13:30 WIB - 15 Oktober 2020 05:00 WIB
+  * **Hari 1**: 13 Oktober 2020 13:30 WIB - 14 Oktober 2020 05:30 WIB
+  * **Hari 2**: 14 Oktober 2020 13:30 WIB - 15 Oktober 2020 05:30 WIB
 
 - Peserta dapat mengerjakan dalam **selang waktu 5 jam yang mana saja** setiap hari kompetisi di dalam rentang waktu yang ditentukan.
 - Ketiga kontes di atas sudah tersedia pada sistem [kompetisi TLX](https://tlx.toki.id/contests). Silakan untuk mendaftarkan diri (*register*) pada ketiga kontes tersebut.
