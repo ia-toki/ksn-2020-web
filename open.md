@@ -10,7 +10,7 @@ key: open
 - KSN Informatika is a national olympiad in informatics for high school students. It is one of the stages required for Indonesian students to represent Indonesia in IOI (International Olympiad in Informatics)
 - The problemset is the same as the problemset in KSN 2020 Bidang Informatika and will be given in both Bahasa Indonesia and English.
 - The contest will be held on [TLX (TOKI Online Judge)](https://tlx.toki.id/contests) (you may need to register for a TLX account if you do not have one).
-- If you have any questions please contact [faishol.amirul27@gmail.com](mailto:faishol.amirul27@gmail.com).
+- If you have any questions please contact [prabowo1048576@gmail.com](mailto:prabowo1048576@gmail.com).
 
 <br>
 
@@ -28,9 +28,9 @@ key: open
 ### Schedule and Technical Details
 
 - The contests will be held at the following time ranges:
-* **Day 0**: [12 October 2020 09:05 - 22:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+0&iso=20201012T1605&p1=108&ah=13&am=00) (trial session)
-* **Day 1**: [13 October 2020 06:35 - 22:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+1&iso=20201013T1335&p1=108&ah=15&am=30)
-* **Day 2**: [14 October 2020 06:35 - 22:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+2&iso=20201014T1335&p1=108&ah=15&am=30)
+* **Day 0**: [12 October 2020 09:00 - 22:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+0&iso=20201012T1600&p1=108&ah=13&am=00) (trial session)
+* **Day 1**: [13 October 2020 06:30 - 22:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+1&iso=20201013T1330&p1=108&ah=15&am=30)
+* **Day 2**: [14 October 2020 06:30 - 22:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+KSN+Open+Contest+2020+Day+2&iso=20201014T1330&p1=108&ah=15&am=30)
 
 - Each contestant can select **any 5-hour window** within the time range to do the contest for each competition day.
 - All three contests are now available on [TLX](https://tlx.toki.id/contests). Please register in those contests.
